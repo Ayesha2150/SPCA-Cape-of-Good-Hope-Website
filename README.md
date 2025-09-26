@@ -26,24 +26,13 @@ This website showcases the SPCA Cape of Good Hope, providing information on adop
 - Media queries ensure **responsive layouts** for phones, tablets, and desktops.  
 - Footer consistent on all pages with dark background and white text.  
 
----
 
 ## Changelog
-- **v1.0** – Initial website with basic HTML pages and CSS.  
-- **v1.1** – Hero image and overlay added, navigation links improved.  
-- **v1.2** – Adoption page updated with responsive grid layout for pet cards.  
-- **v1.3** – Education page redesigned with playful icons and colored sections.  
-- **v1.4** – About page images resized, impact cards added, and consistent styling applied.  
-- **v1.5** – Contact page fixed, form styling improved, headings refined.  
-- **v1.6** – Final adjustments for submission: fully responsive and consistent styling.  
-
-## Referencing
-MDN Web Docs (n.d.) CSS: Cascading Style Sheets. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS
- (Accessed: 26 September 2025).
-MDN Web Docs (n.d.) CSS Grid Layout. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
- (Accessed: 26 September 2025).
-MDN Web Docs (n.d.) Using CSS Flexbox. Available at: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
- (Accessed: 26 September 2025).
- 
-
+ – Initial website with basic HTML pages and CSS.  
+ – Hero image and overlay added, navigation links improved.  
+ – Adoption page updated with responsive grid layout for pet cards.  
+ – Education page redesigned with playful icons and colored sections.  
+ – About page images resized, impact cards added, and consistent styling applied.  
+ – Contact page fixed, form styling improved, headings refined.  
+  – Final adjustments for submission: fully responsive and consistent styling.  
 
